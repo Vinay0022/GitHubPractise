@@ -1,4 +1,6 @@
-This is a color file. 
+This is a color file in his-branch. 
 red 
 blue
+John
+Eric
 
