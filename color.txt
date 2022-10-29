@@ -1,1 +1,5 @@
-This is a color file. 
+This is a color file in my-branch. 
+red 
+blue
+yellow
+purple
