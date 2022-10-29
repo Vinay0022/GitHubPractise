@@ -1,1 +1,1 @@
-This is a color file.
+This is a color file. 
