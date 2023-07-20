@@ -1,1 +1,2 @@
 This is a name.txt file from from my-branch .  
+Adding much more so i can understand this comes from his-branch.
