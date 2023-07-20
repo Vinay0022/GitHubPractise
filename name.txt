@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-
 This is a name.txt file from my-branch. 
-=======
-This is a name.txt file from his-branch
->>>>>>> his-branch
