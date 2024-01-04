@@ -1,11 +1,13 @@
-This is a color file in my-branch. 
-red 
+This is a color file in my-branch.
+red
 blue
 yellow
 purple
-This is a color file in his-branch. 
-red 
+This is a color file in his-branch.
+red
 blue
 John
 Eric
 
+
+something i have changed rn
