@@ -1,12 +1,12 @@
 This is a color file in my-branch.
-
 red
 blue
 yellow
 ok ok ok
 purple
+
 This is a color file in his-branch.
-red
+white
 blue
 John
 Eric
