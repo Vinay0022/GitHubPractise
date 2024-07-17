@@ -1,6 +1,8 @@
-This is a name.txt file from my-branch. 
+This is a name.txt file from my-branch.
 
 
 Now the conflict should happen.
-This is a name.txt file from from my-branch .  
+This is a name.txt file from from my-branch .
 Adding much more so i can understand this comes from his-branch.
+
+Ok i have added something
