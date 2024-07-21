@@ -1,5 +1,3 @@
-This is a color file in my-branch.
-red
 something
 blue
 yellow
