@@ -1,17 +1,5 @@
-something
-blue
-yellow
-ok ok ok
-purple
-This is a color file in his-branch. 
-white
-red 
+This is a color text file.
 
-This is a color file in his-branch.
-white
-blue
-John
-Eric
-
-
-something i have changed rn
+This is a deleted line.
+This is a squash commit line.
+This is another line being squashed.
