@@ -7,6 +7,6 @@ This is a color file in his-branch.
 white
 red 
 blue
-John
+
 Eric
 
